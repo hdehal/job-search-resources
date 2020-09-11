@@ -5,12 +5,12 @@ Note that there will be some overlap with job postings and websites below — do
 
 ## Macro View of the COVID-19 Job Market :earth_americas:
 You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
-https://bls.gov/cps
-https://candor.co/hiring-freezes
-https://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics
-https://layoffs.fyi/tracker
-https://parachutelist.com
-https://www.levels.fyi/still-hiring
+- https://bls.gov/cps
+- https://candor.co/hiring-freezes
+- https://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics
+- https://layoffs.fyi/tracker
+- https://parachutelist.com
+- https://www.levels.fyi/still-hiring
 
 ## Cheat Modes (Or Search in Aggregate!) :running_woman:
 You've probably noticed certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) have poor UX — asking you to upload your resume while also requiring you to manually type out your entire job history!
