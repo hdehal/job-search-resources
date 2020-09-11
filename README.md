@@ -1,11 +1,9 @@
 # Launch Your Job Search!
-The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setup alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
-
-<img align="right" width="450" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setup alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
 Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts, and *customize the workflows and processes that work best for you*!
 
-## Macro View of the COVID-19 Job Market :earth_americas:
+## Macro View of the COVID-19 Job Market
 You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
 - https://bls.gov/cps
 - https://candor.co/hiring-freezes
@@ -14,7 +12,7 @@ You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, a
 - https://parachutelist.com
 - https://www.levels.fyi/still-hiring
 
-## Cheat Modes :running_woman:
+## Cheat Modes
 #### Setup Alerts
 Search for jobs directly in Google and setup *email* alerts on your post on their job portal [Google](https://www.google.com/search?hl=en&q=design+manager+job&ibp=htl;jobs "Google").  You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
 
@@ -29,7 +27,7 @@ These modern job boards can be easily searched by Google, and filtered by your j
 - :mag_right: [View all jobs posted on Jobvite (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttp%3A%2F%2Fjobs.jobvite.com "View all jobs posted on Jobvite (Google Search)")
 - :mag_right: [View all jobs posted on Lever (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all jobs posted on Lever (Google Search)")
 
-## Job Boards :detective:
+## Job Boards
 - http://vcjobs.kgbase.com
 - https://angel.co/jobs
 - https://boooom.co
@@ -49,7 +47,7 @@ These modern job boards can be easily searched by Google, and filtered by your j
 - https://unusual.vc/careers
 - https://workatastartup.com
 
-## Government, NGO, or Non-Profit :united_nations:
+## Government, NGO, or Non-Profits
 - https://18f.gsa.gov/join
 - https://careers.un.org
 - https://digitalservices.sfgov.org/joinus
@@ -58,14 +56,14 @@ These modern job boards can be easily searched by Google, and filtered by your j
 - https://usds.gov
 - https://whitehouse.gov/get-involved/fellows
 
-## Jobs for a Better World :medical_symbol:
+## Jobs for a Better World
 - https://80000hours.org/job-board
 - https://techjobsforgood.com
 - https://www.idealist.org
 
-## Social Networking Your Job Search :speech_balloon:
+## Social Networking Your Job Search
 It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
-#### HackerNews/YCombinator
+#### HackerNews/YC
 HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month — posting your information will typically get you actual human referrals and attention:
 - https://news.ycombinator.com/user?id=whoishiring
 
@@ -77,7 +75,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://elpha.com (Community for women in tech)
 - https://remotists.substack.com (Super friendly email list curated by Shiva -- sign-up!)
 
-## Remote Jobs :rocket:
+## Remote Jobs
 - https://designmodo.com/jobs
 - https://findwork.dev
 - https://freshremote.work
@@ -91,7 +89,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://www.sequoiacap.com/remote-jobs
 - https://www.workingnomads.co
 
-## Other Curated Lists (Information Overload!) :laughing:
+## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack")
 - https://github.com/Effective-Immediately/effective-immediately
 - https://github.com/alex-wap/job-search
@@ -101,7 +99,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://github.com/remoteintech/remote-jobs
 
-## Study Materials :books:
+## Study Materials
 - https://codecademy.com
 - https://freecodecamp.org
 - https://hackerrank.com/dashboard
@@ -111,15 +109,15 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
 - https://udemy.com
 
-## Negotiation & Salary Research :money_with_wings:
+## Negotiation & Salary Research
 - https://candor.co/guides/salary-negotiation
 - https://github.com/jlevy/og-equity-compensation
 - https://h1bdata.info
 - https://stackoverflow.com/jobs/salary/results
 
-## Stay Strong and Good Luck! :pray:
+## Stay Strong and Good Luck!
 This list helped me in my job search, studying, interviewing, and ultimately landing a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig!
 
-<img align="right" width="450" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">
 
 P.S. Please feel free to [edit](https://github.com/hdehal/job-search-resources/edit/master/README.md "edit") this README and add more resources with a friendly pull request!
