@@ -28,7 +28,7 @@ These modern job boards can be easily searched by Google, and filtered by your j
 Search for jobs directly in Google and setup *email* alerts on your post on their job portal [Google](https://www.google.com/search?hl=en&q=design+manager+job&ibp=htl;jobs "Google").  You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
 
 ## Job Boards
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/ReadingDoodle.png">
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
 - http://vcjobs.kgbase.com
 - https://angel.co/jobs
