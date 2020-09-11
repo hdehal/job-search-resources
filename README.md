@@ -86,7 +86,7 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 - https://news.ycombinator.com/user?id=whoishiring
 
 #### LinkedIn
-Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to HR-related connections using LinkedIn messages.
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to HR-related connections using LinkedIn messages.
 
 #### Other Resources
 - https://elpha.com (Community for women in tech)
