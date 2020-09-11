@@ -1,12 +1,12 @@
 # Launch Your Job Search!
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has changed the job market. After getting laid-off myself in early 2020, I've compiled a list of bookmarks and strategies for tech, design, or web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
-**I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize the job search strategy that work best for you**!
+**I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize a job search strategy that work best for you**!
 
 Note that there will be some overlap with job postings and websites below. Don't let the information overload discourage you!
 
 ## Macro View of the COVID-19 Job Market
-Remember, you are not alone! Here is a bird's-eye view of the 2020 layoffs, hiring freezes, as well as [some] companies still actively hiring:
+Remember, you are not alone! Here is a bird's-eye view of the 2020 job market, layoffs, hiring freezes, as well as [some] companies still actively hiring:
 - https://bls.gov/cps
 - https://candor.co/hiring-freezes
 - https://ec.europa.eu/eurostat
@@ -16,15 +16,15 @@ Remember, you are not alone! Here is a bird's-eye view of the 2020 layoffs, hiri
 
 ## Strategies
 #### Search in Aggregate
-Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) have poor UX — asking you to upload your resume while also requiring you to manually type out your entire job history!
+Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) require you to upload your resume, while also manually typing out your entire job history line by line!
 
-While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly faster to apply to by merely uploading your resume, checking a few boxes, and clicking submit. 
+While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly *faster* to apply to by merely uploading your resume, checking a few boxes, and clicking submit. 
 
-These modern job boards can be easily searched by Google, and *filtered* by your job title (e.g. "Product Designer"), posting date (e.g. "Past Week"), etc.:
+As a bonus, these modern job boards can be easily searched by Google, and *filtered* by your job title (e.g. "Product Designer"), posting date (e.g. "Past Week"), etc.:
 
-- :mag_right: [View all jobs posted on Greenhouse (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fboards.greenhouse.io "View all jobs posted on Greenhouse (Google Search)")
-- :mag_right: [View all jobs posted on Jobvite (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttp%3A%2F%2Fjobs.jobvite.com "View all jobs posted on Jobvite (Google Search)")
-- :mag_right: [View all jobs posted on Lever (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all jobs posted on Lever (Google Search)")
+- :mag_right: [View all jobs posted on **Greenhouse** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fboards.greenhouse.io "View all jobs posted on Greenhouse (Google Search)")
+- :mag_right: [View all jobs posted on **Jobvite** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttp%3A%2F%2Fjobs.jobvite.com "View all jobs posted on Jobvite (Google Search)")
+- :mag_right: [View all jobs posted on **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all jobs posted on Lever (Google Search)")
 
 #### Setup Alerts
 Search for jobs directly in Google and setup *email* alerts on your post on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
@@ -86,8 +86,7 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 - https://news.ycombinator.com/user?id=whoishiring
 
 #### LinkedIn
-Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to HR-related connections using LinkedIn messages:
-- https://linkedin.com
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to HR-related connections using LinkedIn messages.
 
 #### Other Resources
 - https://elpha.com (Community for women in tech)
