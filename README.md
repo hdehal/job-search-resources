@@ -59,13 +59,16 @@ These modern job boards can be easily searched by Google, and filtered by your j
 
 ## Social Networking Your Job Search :speech_balloon:
 It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
+#### HackerNews/YCombinator
+HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month — posting your information will typically get you actual human referrals and attention:
+- https://news.ycombinator.com/user?id=whoishiring
 
-You can also [filter your LinkedIn connections](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") by keyword (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections!
-
-See also:
+#### LinkedIn
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections:
 - https://linkedin.com
+
+#### Other Resources:
 - https://elpha.com (Community for women in tech)
-- https://news.ycombinator.com/user?id=whoishiring (HackerNews posts "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month!)
 - https://remotists.substack.com (Super friendly email list curated by Shiva -- sign-up!)
 
 ## Remote Jobs :rocket:
