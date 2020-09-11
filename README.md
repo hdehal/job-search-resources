@@ -100,6 +100,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://github.com/remoteintech/remote-jobs
 
 ## Study Materials
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/ReadingDoodle.png">
 - https://codecademy.com
 - https://freecodecamp.org
 - https://hackerrank.com/dashboard
@@ -116,8 +117,6 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://stackoverflow.com/jobs/salary/results
 
 ## Stay Strong and Good Luck!
-This list helped me in my job search, studying, interviewing, and ultimately landing a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig!
-
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">This list helped me in my job search, studying, interviewing, and ultimately landing a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig!
 
 P.S. Please feel free to [edit](https://github.com/hdehal/job-search-resources/edit/master/README.md "edit") this README and add more resources with a friendly pull request!
