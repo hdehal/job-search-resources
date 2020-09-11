@@ -118,4 +118,4 @@ https://github.com/j-delaney/easy-application
 ## Stay Strong and Good Luck! :pray:
 This list helped me in my job search, studying, interviewing, and ultimately landing a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig!
 
-P.S. Please feel free to [edit](edit/master/README.md "edit") this README and add more resources with a friendly pull request!
+P.S. Please feel free to [edit](/edit/master/README.md "edit") this README and add more resources with a friendly pull request!
