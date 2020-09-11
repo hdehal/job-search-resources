@@ -62,7 +62,7 @@ These modern job boards can be easily searched by Google, and filtered by your j
 - https://www.idealist.org
 
 ## Social Networking Your Job Search
-It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
 #### HackerNews/YC
 HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month — posting your information will typically get you actual human referrals and attention:
 - https://news.ycombinator.com/user?id=whoishiring
@@ -101,6 +101,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 
 ## Study Materials
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/ReadingDoodle.png">
+
 - https://codecademy.com
 - https://freecodecamp.org
 - https://hackerrank.com/dashboard
