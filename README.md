@@ -11,8 +11,8 @@ Remember, you are not alone! Here is a bird's-eye view of the 2020 job market, l
 - https://candor.co/hiring-freezes
 - https://ec.europa.eu/eurostat
 - https://layoffs.fyi/tracker
+- https://levels.fyi/still-hiring
 - https://parachutelist.com
-- https://www.levels.fyi/still-hiring
 
 ## Strategies
 #### Search in Aggregate
@@ -27,7 +27,7 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 - :mag_right: [View all jobs posted on **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all jobs posted on Lever (Google Search)")
 
 #### Setup Alerts
-Search for jobs directly in Google and setup *email* alerts on your post on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
+Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
 
 ## Job Boards
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
@@ -74,10 +74,10 @@ Search for jobs directly in Google and setup *email* alerts on your post on the 
 - https://remoteleaf.com
 - https://remoteok.io
 - https://remotive.io/remote-jobs
+- https://sequoiacap.com/remote-jobs
 - https://wellpaid.io
 - https://weworkremotely.com
-- https://www.sequoiacap.com/remote-jobs
-- https://www.workingnomads.co
+- https://workingnomads.co
 
 ## Social Networking Your Job Search
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
