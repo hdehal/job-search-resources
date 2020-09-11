@@ -1,5 +1,5 @@
 # Launch Your Job Search!
-The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. setting up alerts, searching in aggregate) can be used for any job search.
+The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setup alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
 Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts, and *customize the workflows and processes that work best for you*!
 
