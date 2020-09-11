@@ -1,13 +1,15 @@
 # Launch Your Job Search!
 The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setup alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
+<img align="right" width="450" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">
+
 Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts, and *customize the workflows and processes that work best for you*!
 
 ## Macro View of the COVID-19 Job Market :earth_americas:
 You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
 - https://bls.gov/cps
 - https://candor.co/hiring-freezes
-- https://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics
+- https://ec.europa.eu/eurostat
 - https://layoffs.fyi/tracker
 - https://parachutelist.com
 - https://www.levels.fyi/still-hiring
@@ -94,10 +96,10 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://github.com/Effective-Immediately/effective-immediately
 - https://github.com/alex-wap/job-search
 - https://github.com/engineerapart/TheRemoteFreelancer
+- https://github.com/j-delaney/easy-application
 - https://github.com/jeffwebb-to/awesome-covid-tech-response
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://github.com/remoteintech/remote-jobs
-https://github.com/j-delaney/easy-application
 
 ## Study Materials :books:
 - https://codecademy.com
@@ -117,5 +119,7 @@ https://github.com/j-delaney/easy-application
 
 ## Stay Strong and Good Luck! :pray:
 This list helped me in my job search, studying, interviewing, and ultimately landing a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig!
+
+<img align="right" width="450" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">
 
 P.S. Please feel free to [edit](https://github.com/hdehal/job-search-resources/edit/master/README.md "edit") this README and add more resources with a friendly pull request!
