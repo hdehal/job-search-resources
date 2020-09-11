@@ -1,7 +1,7 @@
 # Launch Your Job Search!
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has changed the job market. After getting laid-off myself in early 2020, I've compiled a list of bookmarks and strategies for tech, design, and web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
-**I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize a job search strategy that work best for you**!
+**I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize a job search strategy that works best for you**!
 
 Note that there will be some overlap with job postings and websites below. Don't let the information overload discourage you!
 
