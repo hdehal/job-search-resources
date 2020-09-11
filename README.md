@@ -1,10 +1,10 @@
 # Launch Your Job Search!
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setup alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has changed the job market. After getting laid-off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
-Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts, and *customize the workflows and processes that work best for you*!
+Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — **I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize the job search strategy that work best for you**!
 
 ## Macro View of the COVID-19 Job Market
-You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
+You're not alone! Here is a bird's-eye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
 - https://bls.gov/cps
 - https://candor.co/hiring-freezes
 - https://ec.europa.eu/eurostat
@@ -71,9 +71,9 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3B4B38YEBqTo%2BDDjaTUHjcHA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_people_connections-search_with_filters "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections:
 - https://linkedin.com
 
-#### Other Resources:
+#### Other Resources
 - https://elpha.com (Community for women in tech)
-- https://remotists.substack.com (Super friendly email list curated by Shiva -- sign-up!)
+- https://remotists.substack.com (Super friendly email list curated by Shiva — sign-up!)
 
 ## Remote Jobs
 - https://designmodo.com/jobs
@@ -90,7 +90,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://www.workingnomads.co
 
 ## Other Curated Lists (Information Overload!)
-- [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack")
+- [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
 - https://github.com/Effective-Immediately/effective-immediately
 - https://github.com/alex-wap/job-search
 - https://github.com/engineerapart/TheRemoteFreelancer
@@ -108,7 +108,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://khanacademy.org/computing/computer-programming
 - https://leetcode.com
 - https://linkedin.com/learning
-- https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
+- https://ocw.mit.edu/help/get-started-with-ocw
 - https://udemy.com
 
 ## Negotiation & Salary Research
