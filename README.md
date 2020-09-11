@@ -1,7 +1,7 @@
 # Launch Your Job Search!
 The COVID-19 pandemic has definitely changed the job market. After getting laid off myself in early 2020, I've compiled a list of bookmarks and "cheats" for tech, design, or web development-related jobs, with an emphasis on North America and/or remote. While many of these jobs are in tech, these strategies (e.g. setting up alerts, searching in aggregate) can be used for any job search.
 
-Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts on [Google](https://www.google.com/search?hl=en&q=design+manager+job&ibp=htl;jobs "Google") and [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn"), etc. and *customize the workflows and processes that work best for you*!
+Note that there will be some overlap with job postings and websites below — don't let the information overload discourage you — I recommend using this as a *launchpad* to populate your own bookmarks, setup alerts, and *customize the workflows and processes that work best for you*!
 
 ## Macro View of the COVID-19 Job Market :earth_americas:
 You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, as well as companies still actively hiring:
@@ -12,8 +12,12 @@ You're not alone! Here is a birdseye view of the 2020 layoffs, hiring freezes, a
 - https://parachutelist.com
 - https://www.levels.fyi/still-hiring
 
-## Cheat Modes (Or Search in Aggregate!) :running_woman:
-You've probably noticed certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) have poor UX — asking you to upload your resume while also requiring you to manually type out your entire job history!
+## Cheat Modes :running_woman:
+#### Setup Alerts
+Search for jobs directly in Google and setup *email* alerts on your post on their job portal [Google](https://www.google.com/search?hl=en&q=design+manager+job&ibp=htl;jobs "Google").  You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
+
+#### Search in Aggregate
+Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) have poor UX — asking you to upload your resume while also requiring you to manually type out your entire job history!
 
 While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly faster to apply to by merely uploading your resume, checking a few boxes, and clicking submit. 
 
