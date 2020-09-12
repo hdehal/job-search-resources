@@ -34,7 +34,6 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 ## Job Boards
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
-- http://vcjobs.kgbase.com
 - https://angel.co/jobs :star:
 - https://boooom.co
 - https://breakoutlist.com
@@ -51,6 +50,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://reddit.com/r/whodoyouknow
 - https://uiuxjobsboard.com
 - https://unusual.vc/careers
+- https://vcjobs.kgbase.com
 - https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profits
