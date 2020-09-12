@@ -22,9 +22,11 @@ While you should **not** exclude the legacy job boards for their poor UX, the fo
 
 As a bonus, these modern job boards can be easily searched by Google, and *filtered* by your job title (e.g. "Product Designer"), posting date (e.g. "Past Week"), etc.:
 
-- :mag_right: [View all jobs posted on **Greenhouse** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fboards.greenhouse.io "View all jobs posted on Greenhouse (Google Search)")
-- :mag_right: [View all jobs posted on **Jobvite** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttp%3A%2F%2Fjobs.jobvite.com "View all jobs posted on Jobvite (Google Search)")
-- :mag_right: [View all jobs posted on **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all jobs posted on Lever (Google Search)")
+- :mag_right: [View all companies posting to **Greenhouse** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fboards.greenhouse.io "View all companies posting to Greenhouse (Google Search)")
+
+- :mag_right: [View all companies posting to **Jobvite** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttp%3A%2F%2Fjobs.jobvite.com "View all companies posting to Jobvite (Google Search)")
+
+- :mag_right: [View all companies posting to **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all companies posting to Lever (Google Search)")
 
 #### Setup Alerts
 Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
