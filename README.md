@@ -33,10 +33,10 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
 - http://vcjobs.kgbase.com
-- https://angel.co/jobs
+- https://angel.co/jobs :star:
 - https://boooom.co
 - https://breakoutlist.com
-- https://builtin.com/jobs
+- https://builtin.com/jobs :star:
 - https://codepen.io/jobs
 - https://diversifytech.co/job-board
 - https://getsilverlining.com/job-board
@@ -45,11 +45,11 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
 - https://jobs.workable.com
-- https://linkedin.com
+- https://linkedin.com :star:
 - https://reddit.com/r/whodoyouknow
 - https://uiuxjobsboard.com
 - https://unusual.vc/careers
-- https://workatastartup.com
+- https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profit Job Boards
 - https://18f.gsa.gov/join
