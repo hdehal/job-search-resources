@@ -82,13 +82,13 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://workingnomads.co
 
 ## Social Networking Your Job Search
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">These days, it's difficult, although not impossible to get a job without social networking! If you have the connections, do not hesitate to ask your friends or colleagues to refer you to a job or introduce your resume to a hiring manager!
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">These days, it's difficult, although not impossible to get a job without networking! If you have the connections, do not hesitate to ask your friends or colleagues to *internally* refer you to a job or share your resume with a hiring manager!
 #### HackerNews/YC
 HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month — posting your information will typically get you actual human referrals and attention:
 - https://news.ycombinator.com/submitted?id=whoishiring
 
 #### LinkedIn
-Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to connections using LinkedIn messages.
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. And remember to send thoughtful "thank you" notes and reach out to connections using LinkedIn messages. Lastly, it may be worthwhile to try the free LinkedIn Premium trial for 30 days if you send InMail messages often.
 
 #### Other Resources
 - https://elpha.com (Community for women in tech)
