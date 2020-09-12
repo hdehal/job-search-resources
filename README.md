@@ -16,7 +16,7 @@ Remember, you are not alone! Here is a bird's-eye view of the 2020 job market, l
 
 ## Strategies
 #### Search in Aggregate
-Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) require you to upload your resume, while also manually typing out your entire job history line by line!
+Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) ask you to upload your resume, while also forcing you to manually type out your entire work history line by line!
 
 While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly *faster* to apply to by merely uploading your resume, checking a few boxes, and clicking submit. 
 
@@ -29,7 +29,7 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 :mag_right: [View all companies posting to **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all companies posting to Lever (Google Search)")
 
 #### Setup Alerts
-Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches.
+Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches and try to be within the first 10 applicants.
 
 ## Job Boards
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
@@ -53,7 +53,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://unusual.vc/careers
 - https://workatastartup.com :star:
 
-## Government, NGO, or Non-Profit Job Boards
+## Government, NGO, or Non-Profits
 - https://18f.gsa.gov/join
 - https://careers.un.org
 - https://digitalservices.sfgov.org/joinus
@@ -82,17 +82,17 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://workingnomads.co
 
 ## Social Networking Your Job Search
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">It's difficult, although not impossible to get a job without social networking! If you have references, do not hesitate to ask your friends or colleagues to refer you to a job! 
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/SelfieDoodle.png">These days, it's difficult, although not impossible to get a job without social networking! If you have the connections, do not hesitate to ask your friends or colleagues to refer you to a job or introduce your resume to a hiring manager!
 #### HackerNews/YC
 HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at 11am Eastern on the first weekday of every month — posting your information will typically get you actual human referrals and attention:
-- https://news.ycombinator.com/user?id=whoishiring
+- https://news.ycombinator.com/submitted?id=whoishiring
 
 #### LinkedIn
-Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to HR-related connections using LinkedIn messages.
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Send thoughtful "thank you" notes and reach out to connections using LinkedIn messages.
 
 #### Other Resources
 - https://elpha.com (Community for women in tech)
-- https://remotists.substack.com (friendly email list curated by Shiva — sign-up!)
+- https://remotists.substack.com (Friendly email list curated by Shiva — do sign-up!)
 
 ## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
