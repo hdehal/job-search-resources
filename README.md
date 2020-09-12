@@ -88,7 +88,7 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 - https://news.ycombinator.com/submitted?id=whoishiring
 
 #### LinkedIn
-Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. And remember to send thoughtful "thank you" notes and reach out to connections using LinkedIn messages. Lastly, it may be worthwhile to try the free LinkedIn Premium trial for 30 days if you send InMail messages often.
+Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Reach out to connections using LinkedIn Messages and remember to send thoughtful "thank you" notes or emails. Lastly, it may be worthwhile to try the free LinkedIn Premium trial for 30 days if you send InMail messages often.
 
 #### Other Resources
 - https://elpha.com (Community for women in tech)
