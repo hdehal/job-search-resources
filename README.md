@@ -103,6 +103,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://github.com/jeffwebb-to/awesome-covid-tech-response
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://github.com/remoteintech/remote-jobs
+- https://remoteindex.io
 
 ## Study Materials
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/ReadingDoodle.png">
