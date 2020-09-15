@@ -15,11 +15,20 @@ Remember, you are not alone! Here is a bird's-eye view of the 2020 job market, l
 - https://parachutelist.com
 
 ## Strategies
+#### Numbers Game
+The modern job search is a numbers game. You do not have to be a 100% fit for each job requirement if you're a quick learner (keep in mind that [imposter](https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/ "imposter") [syndrome](https://news.ycombinator.com/item?id=14684307 "syndrome") is real). Once you find a company or job posting that seems like a good fit:
+- **Apply early** (aim to be within the *first* 10-20 applicants — use alerts!)
+- **Apply often** (submit 10-20 applications per unique company per week)
+- **Apply again** (callbacks after getting rejected and re-applying to the same job posting months later do happen!)
+
+#### Modern Job Boards vs. Legacy
+Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) ask you to upload your resume, while also forcing you to *manually* re-type your entire work history line by line — each application can take 10-20+ minutes (not to mention the carpal tunnel)!
+
+While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly *faster* to apply to by merely uploading your resume, checking a few boxes, and clicking submit under 2 minutes! 
+
+Apply to these "quick" modern systems first, and then focus on the older, slower systems.
+
 #### Search in Aggregate
-Certain applicant tracking systems (e.g. BrassRing, Taleo, Workday) ask you to upload your resume, while also forcing you to manually type out your entire work history line by line!
-
-While you should **not** exclude the legacy job boards for their poor UX, the following job boards are significantly *faster* to apply to by merely uploading your resume, checking a few boxes, and clicking submit. 
-
 As a bonus, these modern job boards can be easily searched by Google, and *filtered* by your job title (e.g. "Product Designer"), posting date (e.g. "Past Week"), etc.:
 
 :mag_right: [View all companies posting to **Greenhouse** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fboards.greenhouse.io "View all companies posting to Greenhouse (Google Search)")
