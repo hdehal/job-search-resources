@@ -105,6 +105,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 
 ## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
+- https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html
 - https://github.com/Effective-Immediately/effective-immediately
 - https://github.com/alex-wap/job-search
 - https://github.com/engineerapart/TheRemoteFreelancer
