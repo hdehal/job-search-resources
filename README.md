@@ -37,6 +37,22 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 
 :mag_right: [View all companies posting to **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all companies posting to Lever (Google Search)")
 
+:mag_right: [View all companies posting to **Workday** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwd5.myworkdayjobs.com "View all companies posting to Workday (Google Search)")
+
+:mag_right: [View all companies posting to **Smart Recruiters** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.smartrecruiters.com "View all companies posting to Smart Recruiters (Google Search)")
+
+:mag_right: [View all companies posting to **Glassdoor** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwww.glassdoor.com%2Fjob-listing "View all companies posting to Glassdoor (Google Search)")
+
+
+
+You can also use these search functionalities on company's with their own job boards. You can usually use the url from "https:..up to the../jobs" directory of the companies job listing page to do the google search.
+
+:mag_right: [View all postings to **Google's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fcareers.google.com%2Fjobs "View all job postings on Google's Career page (Google Search)")
+
+:mag_right: [View all postings to **Facebook's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwww.facebook.com%2Fcareers%2Fjobs "View all job postings on Facebook's Career page (Google Search)")
+
+:mag_right: [View all postings to **Netflix's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.netflix.com "View all job postings on Facebook's Career page (Google Search)")
+
 #### Setup Alerts
 Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches and try to be within the first 10 applicants.
 
