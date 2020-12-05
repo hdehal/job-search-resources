@@ -37,7 +37,7 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 
 :mag_right: [View all companies posting to **Lever** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.lever.co "View all companies posting to Lever (Google Search)")
 
-:mag_right: [View all companies posting to **Workday** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwd5.myworkdayjobs.com "View all companies posting to Workday (Google Search)")
+:mag_right: [View all companies posting to **Workday** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2F*.myworkdayjobs.com "View all companies posting to Workday (Google Search)")
 
 :mag_right: [View all companies posting to **Smart Recruiters** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.smartrecruiters.com "View all companies posting to Smart Recruiters (Google Search)")
 
