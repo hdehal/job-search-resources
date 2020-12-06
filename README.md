@@ -45,7 +45,7 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 
 
 
-You can also use these search functionalities on company's with their own job boards. You can usually use the url from "https:..up to the../jobs" directory of the companies job listing page to do the google search.
+You can also search a specific company's job board using Google (e.g.: `site:https://jobs.netflix.com product designer` to seach for `Product Designer` roles at `Netflix`).
 
 :mag_right: [View all postings to **Google's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fcareers.google.com%2Fjobs "View all job postings on Google's Career page (Google Search)")
 
@@ -76,6 +76,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://uiuxjobsboard.com
 - https://unusual.vc/careers
 - https://vcjobs.kgbase.com
+- https://whoishiring.io
 - https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profits
