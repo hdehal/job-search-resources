@@ -61,6 +61,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 
 - https://angel.co/jobs :star:
 - https://boooom.co
+- http://borderline.biz/careers
 - https://breakoutlist.com
 - https://builtin.com/jobs :star:
 - https://codepen.io/jobs
