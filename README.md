@@ -60,6 +60,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
 - https://angel.co/jobs :star:
+- https://arbeitnow.com
 - https://boooom.co
 - http://borderline.biz/careers
 - https://breakoutlist.com
