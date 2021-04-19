@@ -91,6 +91,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 
 ## Jobs for a Better World
 - https://80000hours.org/job-board
+- https://goodjobs.careers
 - https://idealist.org
 - https://techjobsforgood.com
 
