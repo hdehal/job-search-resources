@@ -78,6 +78,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://unusual.vc/careers
 - https://vcjobs.kgbase.com
 - https://whoishiring.io
+- https://jooble.org/
 - https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profits
