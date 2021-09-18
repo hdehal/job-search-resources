@@ -62,7 +62,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://angel.co/jobs :star:
 - https://arbeitnow.com
 - https://boooom.co
-- http://borderline.biz/careers
+- https://borderline.biz/careers
 - https://breakoutlist.com
 - https://builtin.com/jobs :star:
 - https://codepen.io/jobs
@@ -73,13 +73,13 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
 - https://jobs.workable.com
+- https://jooble.org
 - https://linkedin.com :star:
 - https://reddit.com/r/whodoyouknow
 - https://uiuxjobsboard.com
 - https://unusual.vc/careers
 - https://vcjobs.kgbase.com
 - https://whoishiring.io
-- https://jooble.org/
 - https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profits
