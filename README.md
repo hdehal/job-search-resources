@@ -43,8 +43,6 @@ As a bonus, these modern job boards can be easily searched by Google, and *filte
 
 :mag_right: [View all companies posting to **Glassdoor** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwww.glassdoor.com%2Fjob-listing "View all companies posting to Glassdoor (Google Search)")
 
-
-
 You can also search a specific company's job board using Google (e.g.: `site:https://jobs.netflix.com product designer` to seach for `Product Designer` roles at `Netflix`).
 
 :mag_right: [View all postings to **Google's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fcareers.google.com%2Fjobs "View all job postings on Google's Career page (Google Search)")
@@ -106,7 +104,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://remote.com/remote-jobs
 - https://remoteleaf.com
 - https://remoteok.io
-- https://remotive.io/remote-jobs
+- https://remotive.io
 - https://sequoiacap.com/remote-jobs
 - https://wellpaid.io
 - https://weworkremotely.com
