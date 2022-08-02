@@ -152,6 +152,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://github.com/jlevy/og-equity-compensation
 - https://h1bdata.info
 - https://stackoverflow.com/jobs/salary/results
+- https://lohntastik.de/s/salary-search
 
 ## Stay Strong and Good Luck!
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">This curated list helped me study, search, interview, and land a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig... Best of luck and stay strong!
