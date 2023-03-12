@@ -74,6 +74,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://jooble.org
 - https://linkedin.com :star:
 - https://reddit.com/r/whodoyouknow
+- https://uiuxdesignerjobs.com/
 - https://uiuxjobsboard.com
 - https://unusual.vc/careers
 - https://vcjobs.kgbase.com
