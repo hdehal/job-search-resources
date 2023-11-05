@@ -153,6 +153,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://candor.co/guides/salary-negotiation
 - https://github.com/jlevy/og-equity-compensation
 - https://h1bdata.info
+- https://h1bsalarydata.com/
 - https://stackoverflow.com/jobs/salary/results
 - https://lohntastik.de/s/salary-search
 
