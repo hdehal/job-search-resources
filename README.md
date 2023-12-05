@@ -73,6 +73,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://jobs.workable.com
 - https://jooble.org
 - https://linkedin.com :star:
+- https://okjob.io
 - https://reddit.com/r/whodoyouknow
 - https://www.uxuijobs.com
 - https://uiuxdesignerjobs.com/
