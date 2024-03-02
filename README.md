@@ -52,7 +52,7 @@ You can also search a specific company's job board using Google (e.g.: `site:htt
 :mag_right: [View all postings to **Netflix's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.netflix.com "View all job postings on Facebook's Career page (Google Search)")
 
 #### Setup Alerts
-Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches and try to be within the first 10 applicants.
+Search for jobs directly in Google and setup *email* alerts on the [Google job portal](https://www.google.com/search?hl=en&q=product+designer+job&ibp=htl;jobs "Google"). You should also setup alerts on your [LinkedIn](https://www.linkedin.com/jobs/?showJobAlertsModal=true "LinkedIn") searches and try to be within the first 10 applicants. You can setup alerts to specific target companies (Airbnb, Stripe, OpenAI, etc) on http://pipeline.careers/. 
 
 ## Job Boards
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
