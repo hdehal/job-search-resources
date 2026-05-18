@@ -68,6 +68,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://getsilverlining.com/job-board
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
+- https://jobs.hanzilla.co/ - Canada-focused student and recent-grad jobs across internships, co-ops, junior, and entry-level roles
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
 - https://jobs.workable.com
