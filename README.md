@@ -67,6 +67,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://diversifytech.co/job-board
 - https://getsilverlining.com/job-board
 - https://github.com/poteto/hiring-without-whiteboards
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student/recent-grad job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - https://hiretechladies.com
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
