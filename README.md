@@ -74,6 +74,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://jobs.foodtechconnect.com
 - https://jobs.github.com
 - https://jobs.workable.com
+- https://jobsinjs.com
 - https://jooble.org
 - https://linkedin.com :star:
 - https://okjob.io
