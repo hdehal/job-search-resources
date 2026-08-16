@@ -1,12 +1,12 @@
 # Launch Your Job Search!
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic has changed the job market. After getting laid-off myself in early 2020, I've compiled a list of bookmarks and strategies for tech, design, and web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic and the emergency of AI/LLMs have changed the job market. After getting laid-off myself, I've compiled a list of bookmarks and strategies for tech, design, and web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
 **I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize a job search strategy that works best for you**!
 
 Note that there will be some overlap with job postings and websites below. Don't let the information overload discourage you!
 
-## Macro View of the COVID-19 Job Market
-Remember, you are not alone! Here is a bird's-eye view of the 2020 job market, layoffs, hiring freezes, as well as [some] companies still actively hiring:
+## Macro View of the Job Market
+Remember, you are not alone! Here is a bird's-eye view of the 2020-2026+ job market, layoffs, hiring freezes, as well as [some] companies still actively hiring:
 - https://bls.gov/cps
 - https://candor.co/hiring-freezes
 - https://ec.europa.eu/eurostat
@@ -60,46 +60,33 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
 - https://angel.co/jobs :star:
-- https://arbeitnow.com
-- https://boooom.co
-- https://borderline.biz/careers
-- https://breakoutlist.com
 - https://builtin.com/jobs :star:
-- https://codepen.io/jobs
 - https://diversifytech.co/job-board
-- https://getsilverlining.com/job-board
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
-- https://jobs.hanzilla.co
-- https://jobs.foodtechconnect.com
-- https://jobs.github.com
+- https://hiringcafe.com
 - https://jobs.workable.com
 - https://jobsinjs.com
 - https://jooble.org
 - https://linkedin.com :star:
-- https://okjob.io
 - https://reddit.com/r/whodoyouknow
 - https://role.com
-- https://www.uxuijobs.com
-- https://uiuxdesignerjobs.com/
+- https://www.theladders.com
+- https://uiuxdesignerjobs.com
 - https://uiuxjobsboard.com
-- https://unusual.vc/careers
-- https://vcjobs.kgbase.com
+- https://wellfound.com
 - https://whoishiring.io
 - https://workatastartup.com :star:
 
 ## Government, NGO, or Non-Profits
-- https://18f.gsa.gov/join
 - https://careers.un.org
 - https://digitalservices.sfgov.org/joinus
 - https://unjobs.org
 - https://usajobs.gov
 - https://usds.gov
-- https://whitehouse.gov/get-involved/fellows
 
 ## Jobs for a Better World
 - https://80000hours.org/job-board
-- https://goodjobs.careers
 - https://idealist.org
 - https://techjobsforgood.com
 
@@ -107,14 +94,12 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://careervault.io
 - https://designmodo.com/jobs
 - https://findwork.dev
-- https://freshremote.work
 - https://nodesk.co
 - https://remote.com/remote-jobs
+- https://remoteintech.company
 - https://remoteleaf.com
 - https://remoteok.io
 - https://remotive.io
-- https://sequoiacap.com/remote-jobs
-- https://wellpaid.io
 - https://weworkremotely.com
 - https://workingnomads.co
 
@@ -128,20 +113,15 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Reach out to connections using LinkedIn Messages and remember to send thoughtful "thank you" notes or emails. Lastly, it may be worthwhile to try the free LinkedIn Premium trial for 30 days if you send InMail messages often.
 
 #### Other Resources
-- https://elpha.com (Community for women in tech)
-- https://remotists.substack.com (Friendly email list curated by Shiva — do sign-up!)
+- https://remotists.substack.com (Friendly email list for remote jobs)
+- https://www.jobscan.co/ (To score your resume for ATS/keyword compatibility)
 
 ## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
 - https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html
 - https://github.com/Effective-Immediately/effective-immediately
-- https://github.com/alex-wap/job-search
-- https://github.com/engineerapart/TheRemoteFreelancer
 - https://github.com/j-delaney/easy-application
-- https://github.com/jeffwebb-to/awesome-covid-tech-response
 - https://github.com/lukasz-madon/awesome-remote-job
-- https://github.com/remoteintech/remote-jobs
-- https://remoteindex.io
 
 ## Study Materials
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/ReadingDoodle.png">
@@ -158,10 +138,6 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 ## Negotiation & Salary Research
 - https://candor.co/guides/salary-negotiation
 - https://github.com/jlevy/og-equity-compensation
-- https://h1bdata.info
-- https://h1bsalarydata.com
-- https://stackoverflow.com/jobs/salary/results
-- https://lohntastik.de/s/salary-search
 
 ## Stay Strong and Good Luck!
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/LovingDoodle.png">This curated list helped me study, search, interview, and land a job after a long, tough process. Ultimately your hard work, a little bit of luck, and a handful of friendly and empathetic people along the way will help you land your next gig... Best of luck and stay strong!
