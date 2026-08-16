@@ -1,5 +1,5 @@
 # Launch Your Job Search!
-<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic and the emergency of AI/LLMs have changed the job market. After getting laid-off myself, I've compiled a list of bookmarks and strategies for tech, design, and web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
+<img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/UnboxingDoodle.png">The COVID-19 pandemic and the emergence of AI/LLMs have changed the job market. After getting laid-off myself, I've compiled a list of bookmarks and strategies for tech, design, and web development-related jobs. While many of these jobs are in tech, these strategies (e.g. [setting up alerts](#setup-alerts "setup alerts"), [searching in aggregate](#search-in-aggregate "searching in aggregate")) can be used for any job search.
 
 **I recommend using this page as a launchpad to populate your own bookmarks, setup alerts, and customize a job search strategy that works best for you**!
 
@@ -8,7 +8,6 @@ Note that there will be some overlap with job postings and websites below. Don't
 ## Macro View of the Job Market
 Remember, you are not alone! Here is a bird's-eye view of the 2020-2026+ job market, layoffs, hiring freezes, as well as [some] companies still actively hiring:
 - https://bls.gov/cps
-- https://candor.co/hiring-freezes
 - https://ec.europa.eu/eurostat
 - https://layoffs.fyi/tracker
 - https://levels.fyi/still-hiring
@@ -49,8 +48,6 @@ You can also search a specific company's job board using Google (e.g.: `site:htt
 
 :mag_right: [View all postings to **Google's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fcareers.google.com%2Fjobs "View all job postings on Google's Career page (Google Search)")
 
-:mag_right: [View all postings to **Facebook's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fwww.facebook.com%2Fcareers%2Fjobs "View all job postings on Facebook's Career page (Google Search)")
-
 :mag_right: [View all postings to **Netflix's Job Board** (Google Search)](https://www.google.com/search?hl=en&q=site%3Ahttps%3A%2F%2Fjobs.netflix.com "View all job postings on Facebook's Career page (Google Search)")
 
 #### Setup Alerts
@@ -65,10 +62,8 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
 - https://hiringcafe.com
-- https://jobs.workable.com
 - https://jobsinjs.com
-- https://jooble.org
-- https://linkedin.com :star:
+- https://linkedin.com/jobs :star:
 - https://reddit.com/r/whodoyouknow
 - https://role.com
 - https://www.theladders.com
@@ -114,7 +109,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 
 #### Other Resources
 - https://remotists.substack.com (Friendly email list for remote jobs)
-- https://www.jobscan.co/ (To score your resume for ATS/keyword compatibility)
+- https://www.jobscan.co (To score your resume for ATS/keyword compatibility)
 
 ## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
