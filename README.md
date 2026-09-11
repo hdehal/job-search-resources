@@ -129,6 +129,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 - https://linkedin.com/learning
 - https://ocw.mit.edu/help/get-started-with-ocw
 - https://udemy.com
+- [InterviewLegend](https://interviewlegend.com) - company-specific software engineer interview prep (coding, system design, behavioral)
 
 ## Negotiation & Salary Research
 - https://candor.co/guides/salary-negotiation
