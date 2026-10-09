@@ -86,6 +86,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://techjobsforgood.com
 
 ## Remote Jobs
+- https://aitraining.jobs
 - https://careervault.io
 - https://designmodo.com/jobs
 - https://findwork.dev
