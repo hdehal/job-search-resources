@@ -62,6 +62,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
 - https://hiringcafe.com
+- https://jobsbylevel.com
 - https://jobsinjs.com
 - https://linkedin.com/jobs :star:
 - https://reddit.com/r/whodoyouknow
