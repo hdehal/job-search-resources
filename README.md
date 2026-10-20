@@ -108,6 +108,7 @@ HackerNews posts separate "Who is Hiring" and "Who Wants to be Hired" threads at
 Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH "filter your LinkedIn connections") (```human OR hr OR talent OR recruiter```) to narrow down your HR-related connections. Reach out to connections using LinkedIn Messages and remember to send thoughtful "thank you" notes or emails. Lastly, it may be worthwhile to try the free LinkedIn Premium trial for 30 days if you send InMail messages often.
 
 #### Other Resources
+- [JobEmerge](https://www.jobemerge.work) (AI job-fit testing, ATS-ready resume and cover letter tools, mock interviews, and application tracking)
 - https://remotists.substack.com (Friendly email list for remote jobs)
 - https://www.jobscan.co (To score your resume for ATS/keyword compatibility)
 
