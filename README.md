@@ -110,6 +110,7 @@ Use your LinkedIn connections and [filter by keyword ](https://www.linkedin.com/
 #### Other Resources
 - https://remotists.substack.com (Friendly email list for remote jobs)
 - https://www.jobscan.co (To score your resume for ATS/keyword compatibility)
+- https://smartjobtools.blogspot.com/p/ats-keywords.html (Free ATS keyword finder: extracts and ranks the keywords in a job description; no sign-up)
 
 ## Other Curated Lists (Information Overload!)
 - [The Ultimate COVID Job Resource Stack](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757 "The Ultimate COVID Job Resource Stack") (Google Doc)
