@@ -58,6 +58,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 
 - https://angel.co/jobs :star:
 - https://builtin.com/jobs :star:
+- https://caio.pro/jobs.html — AI leadership roles
 - https://diversifytech.co/job-board
 - https://github.com/poteto/hiring-without-whiteboards
 - https://hiretechladies.com
