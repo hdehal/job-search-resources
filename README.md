@@ -90,6 +90,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 - https://designmodo.com/jobs
 - https://findwork.dev
 - https://nodesk.co
+- https://nodjobs.com
 - https://remote.com/remote-jobs
 - https://remoteintech.company
 - https://remoteleaf.com
