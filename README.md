@@ -56,6 +56,7 @@ Search for jobs directly in Google and setup *email* alerts on the [Google job p
 ## Job Boards
 <img align="right" width="250" src="https://raw.githubusercontent.com/hdehal/job-search-resources/master/images/MessyDoodle.png">
 
+- https://eurojobs.ai - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employer career pages. Filters for remote, visa sponsorship and English-speaking teams.
 - https://angel.co/jobs :star:
 - https://builtin.com/jobs :star:
 - https://diversifytech.co/job-board
